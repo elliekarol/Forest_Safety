@@ -1,0 +1,23 @@
+.back {
+  background-color: white;
+}
+.back2 {
+  background-color: #903749;
+}
+.h1 {
+  text-align: center;
+}
+.back3 {
+  background-image: url("images-rodama/car-accident.jpg");
+}
+.aside {
+  width: 30%;
+  padding-left: 100px;
+  margin-left: 15px;
+  float: right;
+  font-style: normal;
+  background-color: white;
+}
+.white-text {
+  color: white;
+}
